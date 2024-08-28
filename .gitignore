@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+.coverage
+.project
+.pydevproject
+.ropeproject
+coverage.xml
+nosetests.xml
+target
